@@ -1,0 +1,32 @@
+.banner{
+    display:flex; 
+    margin:auto; 
+    position: relative;
+    justify-content: center;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    width: 100%;
+    left:0;
+    z-index: 0;
+}
+.list-group{
+    z-index: 3;
+    width:fit-content;
+    display:block;
+    justify-content: center;
+}
+
+.title-select{
+    color:navy;
+    font-size: 58pt;
+    text-align: center;
+}
+.rama{
+    text-align: center;
+    color: navy;
+    font-size: 26pt;
+}
+.hr{
+    height: 0.5px;
+}
